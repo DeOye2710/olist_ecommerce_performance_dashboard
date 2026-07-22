@@ -1,4 +1,4 @@
-🛒 Olist E-commerce Performance Dashboard
+🛒 Olist E-commerce Performance Analysis
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Overview
 This project presents a comprehensive Power BI dashboard analyzing sales, customer, and seller performance on the Olist e-commerce platform.
